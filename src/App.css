@@ -1,0 +1,13 @@
+:root{
+    color: black;
+    background:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.theme-dark{
+    color: white;
+    background:black;
+    width:100%;
+    height:100vh;
+}
